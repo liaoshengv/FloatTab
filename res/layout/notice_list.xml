@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="3dip"
+     >
+    <com.example.floathosttab.view.MyListView 
+	    android:id="@+id/lv_list"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent" 
+	    android:layout_marginLeft="14dip"
+	    android:layout_marginRight="14dip"
+	    android:layout_marginTop="19dip"
+	    android:dividerHeight="1dip"
+	    android:scrollbars="@null"
+	  >
+    </com.example.floathosttab.view.MyListView>
+  
+    
+</RelativeLayout>
